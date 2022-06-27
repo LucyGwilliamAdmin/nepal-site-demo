@@ -128,7 +128,8 @@ hide_single_unit: false
 indicator_config_form:
   enabled: true
   dropdowns: []
-  repository_link: 'https://github.com/lucygwilliamadmin/nepal-data-demo/tree/develop/indicator-config'
+  repository_link: >-
+    https://github.com/lucygwilliamadmin/nepal-data-demo/tree/develop/indicator-config
   translation_link: >-
     https://github.com/lucygwilliamadmin/nepal-data-demo/tree/develop/translations/[language]/[group].yml
 indicator_data_form:
@@ -189,7 +190,7 @@ menu:
   - path: /reporting-status
     translation_key: menu.reporting_status
     dropdown: []
-  - path: /about
+  - path: /about-this-site
     translation_key: menu.about
     dropdown: []
   - path: /guidance
