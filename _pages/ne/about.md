@@ -1,6 +1,6 @@
 ---
 title: About this page (in Nepali)
-permalink: /ne/about-this-page/
+permalink: /ne/about-this-site/
 layout: page
 language: ne
 ---
